@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             Double eur = Double.parseDouble(eurEt.getText().toString());
-            dollarTv.setText(String.format("%;2f",eur*1.0919));
+            dollarTv.setText(String.format("%.2f",eur*1.0919));
 
         }
     };
