@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inputoefening</string>
+    <string name="str_tv_title">Converter Eur to $ </string>
+    <string name="str_tv_euro">Euro</string>
+    <string name="str_tv_Dollar">...$</string>
+    <string name="str_et_Eur">e.g.10</string>
+    <string name="str_btn_convert">Convert</string>
+
+</resources>
